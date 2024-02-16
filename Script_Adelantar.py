@@ -12,6 +12,7 @@ class Persona():
         self.__cedula = cedula
     def asignarGenero(self,genero):
         self.__genero = genero
+#holamundo
 
     # getters 
     def verNombre(self): 
